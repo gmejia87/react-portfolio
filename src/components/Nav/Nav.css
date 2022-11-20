@@ -1,7 +1,12 @@
 header {
-  background-color: aqua;
+  background-image: url("../../assets/header/stars.jpg");
   display: flex;
   justify-content: space-between;
+}
+
+h1,
+a {
+  color: gray;
 }
 
 ul {
@@ -10,6 +15,6 @@ ul {
   gap: 20px;
 }
 
-a {
-  color: gray;
+a:hover {
+  color: plum;
 }

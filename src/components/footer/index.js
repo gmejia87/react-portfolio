@@ -6,7 +6,7 @@ import { BsFillEnvelopeFill } from "react-icons/bs";
 function Footer() {
   return (
     <footer>
-      <h4>
+      <h3>
         <a href="https://www.github.com/gmejia87">
           <BsGithub />
         </a>
@@ -16,7 +16,7 @@ function Footer() {
         <a href="mailto:graciela.mejia1@yahoo.com">
           <BsFillEnvelopeFill />
         </a>
-      </h4>
+      </h3>
     </footer>
   );
 }

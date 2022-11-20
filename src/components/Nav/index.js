@@ -5,7 +5,7 @@ import "./Nav.css";
 function Nav() {
   return (
     <header>
-      This Portfolio BZ!
+      <h1>Graciela Mejia</h1>
       <nav>
         <ul>
           <li>
