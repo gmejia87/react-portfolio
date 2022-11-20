@@ -2,6 +2,14 @@
   text-align: center;
 }
 
+.link a {
+  color: #553e4e;
+}
+
+.link a:hover {
+  color: gray;
+}
+
 form {
   width: 40%;
   border: 5px solid purple;
@@ -10,10 +18,11 @@ form {
 input {
   font-size: 1rem;
   padding: 0.25rem;
-  border: 1px solid #000000;
+  border: 3px solid #cccccc;
   outline: none;
   border-radius: 3px;
   transition: box-shadow 0.2s;
+  width: 600px;
 }
 
 input:focus {
