@@ -1,4 +1,7 @@
 footer {
   background-color: blueviolet;
-  align-items: center;
+}
+
+h4 {
+  text-align: center;
 }

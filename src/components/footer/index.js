@@ -1,10 +1,22 @@
 import React from "react";
 import "./Footer.css";
+import { BsLinkedin, BsGithub } from "react-icons/bs";
+import { BsFillEnvelopeFill } from "react-icons/bs";
 
 function Footer() {
   return (
     <footer>
-      <h4>Thanks for visiting.</h4>
+      <h4>
+        <a href="https://www.github.com/gmejia87">
+          <BsGithub />
+        </a>
+        <a href="https://www.linkedin.com/in/gracielamejia1/">
+          <BsLinkedin />
+        </a>
+        <a href="mailto:graciela.mejia1@yahoo.com">
+          <BsFillEnvelopeFill />
+        </a>
+      </h4>
     </footer>
   );
 }

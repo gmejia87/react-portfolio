@@ -9,3 +9,7 @@ ul {
   list-style: none;
   gap: 20px;
 }
+
+a {
+  color: gray;
+}
