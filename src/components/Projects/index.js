@@ -2,6 +2,7 @@ import React from "react";
 import "./projects.css";
 import musicenvivo from "../../assets/photos/musicenvivo.png";
 import smarthomie from "../../assets/photos/smarthomie.png";
+import { BsGithub } from "react-icons/bs";
 
 function Projects() {
   return (
@@ -12,9 +13,23 @@ function Projects() {
 
       <div className="row">
         <div class="column">
+          {/* music en vivo project */}
+          <a href="https://github.com/gmejia87/Music-en-Vivo">
+            <BsGithub />
+            Music en Vivo
+          </a>
+          <br />
           <a href="https://gmejia87.github.io/Music-en-Vivo/">
             <img src={musicenvivo} />
           </a>
+        </div>
+        <div class="column">
+          {/* smart homie project */}
+          <a href="https://github.com/gmejia87/smart-homie">
+            <BsGithub />
+            Smart Homie
+          </a>
+          <br />
           <a href="https://smart-homie.herokuapp.com/">
             <img src={smarthomie} />
           </a>
