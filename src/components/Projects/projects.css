@@ -3,3 +3,27 @@ p {
   color: black;
   text-align: center;
 }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 25px 2px 4px 2px;
+  /* align-content: center; */
+}
+
+/* Create two equal columns that sits next to each other */
+.column {
+  flex: 50%;
+  padding: 25px 2px 4px 2px;
+}
+
+.column img {
+  margin-top: 8px;
+  padding: 5px 5px 5px 5px;
+  /* vertical-align: middle; */
+  width: 50%;
+}
+
+.column img:hover {
+  opacity: 60%;
+}
