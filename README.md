@@ -1,6 +1,6 @@
 # React-Portfolio
 
-### Description
+## Description
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -11,7 +11,7 @@ ScreenShot of application:
 
 ![react projects screenshots](https://user-images.githubusercontent.com/108241017/203116279-f288a747-9510-49c9-b2db-289388ded310.png)
 
-### Table of contents
+## Table of contents
 
 - [Description](#description)
 - [User Story](#user-story)
@@ -20,7 +20,7 @@ ScreenShot of application:
 - [Contributors](#contributors)
 - [Questions](#questions)
 
-### User Story
+## User Story
 
 ```
 AS AN employer looking for candidates with experience building single-page applications
@@ -28,7 +28,7 @@ I WANT to view a potential employee's deployed React portfolio of work samples
 SO THAT I can assess whether they're a good candidate for an open position
 ```
 
-### Acceptance Criteria
+## Acceptance Criteria
 
 ```
 GIVEN a single-page application portfolio for a web developer
@@ -95,10 +95,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-### Contributors
+## Contributors
 
 Created by Graciela Mejia
 
-### Questions
+## Questions
 
 Question or concerns, contact me at: [Email](mailto:graciela.mejia1@yahoo.com), [GitHub](https://github.com/gmejia87)
