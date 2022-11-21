@@ -20,7 +20,7 @@ function Projects() {
           </a>
           <br />
           <a href="https://gmejia87.github.io/Music-en-Vivo/">
-            <img src={musicenvivo} />
+            <img src={musicenvivo} alt="music en vivo screenshot" />
           </a>
         </div>
         <div class="column">
@@ -31,7 +31,7 @@ function Projects() {
           </a>
           <br />
           <a href="https://smart-homie.herokuapp.com/">
-            <img src={smarthomie} />
+            <img src={smarthomie} alt="smart homie screenshot" />
           </a>
         </div>
       </div>
