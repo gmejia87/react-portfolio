@@ -25,3 +25,11 @@ p {
 .column img:hover {
   opacity: 60%;
 }
+
+.column a {
+  color: black;
+}
+
+.column a:hover {
+  color: plum;
+}
