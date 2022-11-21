@@ -3,7 +3,7 @@ body {
   flex-direction: column;
   /* align-items: stretch; */
   display: inline;
-  justify-content: space-between;
+  /* justify-content: space-between; */
 }
 
 .my-photo {
@@ -11,10 +11,11 @@ body {
   height: 400px;
   border-radius: 50%;
   float: left;
-  display: inline-block;
+  /* display: inline-block; */
 }
 
 .intro {
-  width: 900px;
-  display: inline-block;
+  width: stretch;
+  /* float: right; */
+  /* display: inline-block; */
 }
