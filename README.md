@@ -5,7 +5,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Deployed website:
-[React-portfolio](http://localhost:3000/react-portfolio)
+
+[React-portfolio Deployment](http://localhost:3000/react-portfolio)
+
+[GitHub Deployment](https://gmejia87.github.io/react-portfolio/)
 
 ScreenShot of application:
 
