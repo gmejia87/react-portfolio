@@ -6,9 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Deployed website:
 
-[React-portfolio Deployment](http://localhost:3000/react-portfolio)
-
-[GitHub Deployment](https://gmejia87.github.io/react-portfolio/)
+[React-portfolio]https://gmejia87.github.io/react-portfolio/)
 
 ScreenShot of application:
 
