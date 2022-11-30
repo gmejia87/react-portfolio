@@ -73,12 +73,12 @@ function Projects() {
         </div>
         <div class="column">
           {/* taskmaster pro project */}
-          <a href="https://gmejia87.github.io/taskmaster-pro/">
+          <a href="https://github.com/gmejia87/taskmaster-pro">
             <BsGithub />
             Taskmaster
           </a>
           <br />
-          <a href="https://github.com/gmejia87/taskmaster-pro">
+          <a href="https://gmejia87.github.io/taskmaster-pro/">
             <img src={taskmaster} alt="taskmaster screenshot" />
           </a>
         </div>
