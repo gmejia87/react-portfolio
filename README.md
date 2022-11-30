@@ -4,9 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Deployed website:
-
-[React-portfolio](https://gmejia87.github.io/react-portfolio/)
+Deployed website: [React-portfolio](https://gmejia87.github.io/react-portfolio/)
 
 ScreenShot of application:
 
