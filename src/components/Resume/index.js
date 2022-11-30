@@ -9,7 +9,7 @@ function Resume() {
       <br />
       <p>
         <HiDocument />
-        Download my resume.
+        Download my resume [placeholder]
       </p>
       <br />
 
