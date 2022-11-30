@@ -1,13 +1,13 @@
 // import logo from './logo.svg';
-import "./src/App.css";
-import Nav from "./src/components/Nav";
+import "./App.css";
+import Nav from "./components/Nav";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 
-import About from "./src/components/About";
-import Projects from "./src/components/Projects";
-import Footer from "./src/components/footer";
-import Contact from "./src/components/Contact";
-import Resume from "./src/components/Resume";
+import About from "./components/About";
+import Projects from "./components/Projects";
+import Footer from "./components/footer";
+import Contact from "./components/Contact";
+import Resume from "./components/Resume";
 
 function App() {
   return (
