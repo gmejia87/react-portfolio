@@ -1,6 +1,7 @@
 import React from "react";
 import "./resume.css";
 import { HiDocument } from "react-icons/hi";
+import { Link } from "react-router-dom";
 
 function Resume() {
   return (
@@ -9,7 +10,9 @@ function Resume() {
       <br />
       <p>
         <HiDocument />
-        Download my resume [placeholder]
+        <Link to="./assets/Graciela-Mejia-Resume.pdf" target="_blank" download>
+          resume
+        </Link>
       </p>
       <br />
 
