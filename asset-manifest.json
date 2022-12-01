@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.9c527c4f.css",
-    "main.js": "/react-portfolio/static/js/main.5671a88a.js",
+    "main.js": "/react-portfolio/static/js/main.9ec960f0.js",
     "static/js/787.a2cb61a6.chunk.js": "/react-portfolio/static/js/787.a2cb61a6.chunk.js",
     "static/media/horiseon-refactor-code.png": "/react-portfolio/static/media/horiseon-refactor-code.cc897377d8b7619aebe0.png",
     "static/media/smarthomie.png": "/react-portfolio/static/media/smarthomie.f9b01f68074d1629fe33.png",
@@ -13,11 +13,11 @@
     "static/media/notice.png": "/react-portfolio/static/media/notice.0786b5edfa7dc290819d.png",
     "index.html": "/react-portfolio/index.html",
     "main.9c527c4f.css.map": "/react-portfolio/static/css/main.9c527c4f.css.map",
-    "main.5671a88a.js.map": "/react-portfolio/static/js/main.5671a88a.js.map",
+    "main.9ec960f0.js.map": "/react-portfolio/static/js/main.9ec960f0.js.map",
     "787.a2cb61a6.chunk.js.map": "/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9c527c4f.css",
-    "static/js/main.5671a88a.js"
+    "static/js/main.9ec960f0.js"
   ]
 }
