@@ -8,7 +8,8 @@ Deployed website: [React-portfolio](https://gmejia87.github.io/react-portfolio/)
 
 ScreenShot of application:
 
-![react projects screenshots](https://user-images.githubusercontent.com/108241017/203116279-f288a747-9510-49c9-b2db-289388ded310.png)
+![portfolio screensot](https://user-images.githubusercontent.com/108241017/204957311-8ba17fd6-fae7-44c8-a012-8cd540bba359.png)
+
 
 ## Table of contents
 
