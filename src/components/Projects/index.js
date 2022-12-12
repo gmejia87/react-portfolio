@@ -1,7 +1,7 @@
 import React from "react";
 import "./projects.css";
 import musicenvivo from "../../assets/photos/musicenvivo.png";
-import smarthomie from "../../assets/photos/smarthomie.png";
+import breakaway from "../../assets/photos/breakaway.png";
 import notice from "../../assets/photos/notice.png";
 import bookmeup from "../../assets/photos/book-me-up.png";
 import horiseon from "../../assets/photos/horiseon-refactor-code.png";
@@ -28,14 +28,14 @@ function Projects() {
           </a>
         </div>
         <div class="column">
-          {/* smart homie project */}
-          <a href="https://github.com/gmejia87/smart-homie">
+          {/* break away project */}
+          <a href="https://github.com/laceyaguigam/Break-Away">
             <BsGithub />
-            Smart Homie
+            Break Away
           </a>
           <br />
-          <a href="https://smart-homie.herokuapp.com/">
-            <img src={smarthomie} alt="smart homie screenshot" />
+          <a href="https://breakaway.herokuapp.com/">
+            <img src={breakaway} alt="breakaway screenshot" />
           </a>
         </div>
         <div class="column">
